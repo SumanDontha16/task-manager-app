@@ -47,7 +47,7 @@ const TaskList: React.FC = () => {
           {/* Table headers */}
           <th className="border border-gray-300 px-4 py-2">Status</th>
           <th className="border border-gray-300 px-4 py-2">Task Name</th>
-          <th className="border border-gray-300 px-4 py-2">Add Date</th>
+          <th className="border border-gray-300 px-4 py-2">Date</th>
           <th className="border border-gray-300 px-4 py-2">Actions</th>
         </tr>
       </thead>
